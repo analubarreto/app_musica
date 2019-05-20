@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+// variables
+$primary-color: #e7f0cc;
+$text-color: #191919;
+$main-bg: #ffeead;
+$font: 'Quicksand', sans-serif;
+
+.top-bar {
+    background-color: $primary-color;
+    color: $text-color;
+}
+
+.main {
+    color: $text-color;
+    font-family: $font;
+    position: absolute;
+    background-color: $main-bg;
+    padding: 0% 2% 0% 2%;
+    width: 100%;
+    height: 100%;
+
+}

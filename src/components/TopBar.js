@@ -1,10 +1,9 @@
-import "./styles.scss";
-import "./styles.scss";
 import React from 'react';
+import Search from './Search';
 
 const TopBar = () => {
     return (
-        <div className="ui menu top-bar">
+        <div className="ui secondary menu top-bar">
             <div className="header item">
                 Artistas App
             </div>
@@ -20,8 +19,11 @@ const TopBar = () => {
             <a className="item" href="/">
                 Estilos
             </a>
-        </div>
-    );
+                <div className="right menu">
+                    <Search />
+                </div>
+            </div>
+        );
 }
 
 export default TopBar

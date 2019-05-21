@@ -4,10 +4,10 @@ const Picture = props => {
     return (
         <div className="ui fluid card">
             <div className="image">
-                {props.img}
+                <a href="/">{props.pic}</a>
             </div>
             <div className="content">
-                <a className="header">{props.name}</a>
+                <a className="header" href="/">{props.name}</a>
             </div>
         </div>
     );

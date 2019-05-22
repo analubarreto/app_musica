@@ -2,9 +2,13 @@ Esse projeto foi feito com [Create React App](https://github.com/facebook/create
 
 ## Instruções
 
-Inicialmente para ter o projeto disponível em sua máquia é necessário ter instalados:
-    * Git (https://git-scm.com/)
-    * NodeJS (https://nodejs.org/en/)
+Por favor leia a documentação antes de testar o programa.<br>
+
+!!! Devo deixar claro que os links do menu servem como exemplo para novas impletanções, eles não estão funcionais !!! <br>
+
+Inicialmente para ter o projeto disponível em sua máquia é necessário ter instalados:<br>
+    * Git (https://git-scm.com/)<br>
+    * NodeJS (https://nodejs.org/en/)<br>
     * create-react-app (https://github.com/facebook/create-react-app)
 
 ### Downloads e instalações (Windows)

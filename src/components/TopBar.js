@@ -1,5 +1,4 @@
 import React from 'react';
-import Search from './Search';
 
 const TopBar = () => {
     return (
@@ -19,10 +18,8 @@ const TopBar = () => {
             <a className="item" href="/">
                 Estilos
             </a>
-                <div className="right menu">
-                    <Search />
-                </div>
-            </div>
+                
+        </div>
         );
 }
 

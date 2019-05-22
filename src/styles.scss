@@ -24,3 +24,14 @@ $font: 'Quicksand', sans-serif;
     width: 100%;
     height: 100%;
 }
+
+.cartao {
+    position: relative;
+    top: 10%;
+    .foto {
+        position: relative;
+        height: 75%;
+        width: 100%;
+        padding: 1%;
+    }
+}

@@ -10,6 +10,7 @@ $font: 'Quicksand', sans-serif;
     position: relative;
     background-color: $primary-color;
     color: $text-color;
+    top: 3%;
     a.item:hover {
         background-color: #ffeead;
     }
@@ -20,7 +21,7 @@ $font: 'Quicksand', sans-serif;
     color: $text-color;
     font-family: $font;
     background-color: $main-bg;
-    padding: 0% 0.5% 0% 0.5%;
+    padding: 0% 2% 0% 2%;
     width: 100%;
     height: 100%;
 }
@@ -30,8 +31,14 @@ $font: 'Quicksand', sans-serif;
     top: 10%;
     .foto {
         position: relative;
-        height: 75%;
+        height: 17em;
         width: 100%;
         padding: 1%;
     }
+}
+
+.btn {
+    position: absolute;
+    top: 105%;
+    left: 28%;
 }

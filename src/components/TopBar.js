@@ -6,7 +6,7 @@ const TopBar = () => {
             <div className="header item">
                 Artistas App
             </div>
-            <a className="item" href="/">
+            <a className="active tem" href="/">
                 Artistas
             </a>
             <a className="item" href="/">
@@ -14,9 +14,6 @@ const TopBar = () => {
             </a>
             <a className="item" href="/">
                 Músicas
-            </a>
-            <a className="item" href="/">
-                Estilos
             </a>
                 
         </div>

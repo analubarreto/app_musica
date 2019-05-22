@@ -5,7 +5,7 @@ class Picture extends React.Component {
         return (
             <div className="ui fluid card cartao">
                 <div className="image">
-                    <a href={this.props.link} target="_blank">
+                    <a href={this.props.link} target="_blank" rel="noopener noreferrer">
                         <img src={this.props.picture} alt={this.props.textAlt} className="foto"/>
                     </a>
                 </div>

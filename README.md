@@ -48,5 +48,3 @@ Os scripts que vem junto com o create react app são:
 Abre o app no modo desenvolvedor.<br>
 Para abrir o aplicativo no browser entre, através do cmd (Windows) ou Terminal(Linux) na pasta root nos quais estão presentes os arquivos e digite "npm start", o aplicativo irá iniciar e, normalmente, abrirá uma página no seu browser principal com o endereço http://localhost:3000, caso não abra. Entre no seu browser e digite o endereço. <br>
 
-### `npm test`
-
